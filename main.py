@@ -5,8 +5,8 @@ import telebot
 from bs4 import BeautifulSoup
 
 # Токен, полученный от BotFather
-TOKEN = '6639135222:AAG7lRs-ksrRXd1mVDRXtnNQBscoJMFZvHg'
-CHAT_ID = '-1002105190494'
+TOKEN = ''
+CHAT_ID = ''
 
 bot = telebot.TeleBot(TOKEN)
 
