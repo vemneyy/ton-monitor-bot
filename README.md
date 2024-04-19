@@ -16,7 +16,7 @@ Before running the bot, you need to install certain Python packages. Make sure P
 pip3 install requests telebot beautifulsoup4
 ```
 
-##Configuration
+## Configuration
 To use the bot, you need to replace the placeholders in the script with your actual Telegram Bot Token and Chat ID:
 
 TOKEN should be set to the token you receive from BotFather when you create your bot on Telegram.
@@ -28,5 +28,5 @@ python3 main.py
 ```
 The bot will start in a separate thread for command handling and simultaneously run the timed message function.
 
-##Disclaimer
+## Disclaimer
 This bot is for educational purposes only. Always verify financial data through official platforms before making investment decisions.
